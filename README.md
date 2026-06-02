@@ -95,7 +95,7 @@ Generated actionable insights and recommendations to improve road safety and red
 
 ### Insights & Recommendations
 
-![Insights](./Insights%20and%20Recommendations.PNG)
+![Insights](Insights%20and%20Recommendations%20Dashboard.PNG)
 
 ## Repository Contents
 
