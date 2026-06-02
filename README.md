@@ -91,13 +91,11 @@ Generated actionable insights and recommendations to improve road safety and red
 
 ### Main Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](./Accident_analysis%20dashboard.PNG)
 
 ### Insights & Recommendations
 
-![Insights](insights.png)
-
----
+![Insights](./Insights%20and%20Recommendations.PNG)
 
 ## Repository Contents
 
